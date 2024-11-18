@@ -59,6 +59,8 @@ public class DataSeeder implements CommandLineRunner {
 
         productRepository.saveAll(Arrays.asList(phone,laptop));
 
+        //committed successfully
+
 
 
 
